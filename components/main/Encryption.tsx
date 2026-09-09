@@ -25,14 +25,14 @@ const Encryption = () => {
       <div className="flex flex-col items-center justify-center translate-y-[-50px] absolute z-[20] w-auto h-auto">
         <div className="flex flex-col items-center group cursor-pointer w-auto h-auto">
           <Image
-            src="/LockTop.png"
+            src="https://res.cloudinary.com/dcghgoebb/image/upload/v1788982149/LockTop_efxcjg.png"
             alt="Lock top"
             width={50}
             height={50}
             className="w-[50px] translate-y-5 transition-all duration-200 group-hover:translate-y-11"
           />
           <Image
-            src="/LockMain.png"
+            src="https://res.cloudinary.com/dcghgoebb/image/upload/v1788982149/LockMain_d4katx.png"
             alt="Lock Main"
             width={70}
             height={70}
@@ -58,7 +58,7 @@ const Encryption = () => {
           playsInline
           preload="false"
           className="w-full h-auto"
-          src="/encryption.webm/"
+          src="https://res.cloudinary.com/dcghgoebb/video/upload/v1788982094/encryption_u387qo.webm"
         />
       </div>
     </div>

@@ -41,7 +41,7 @@ const Skills = () => {
             loop
             muted
             autoPlay
-            src="/cards-video.webm"
+            src="https://res.cloudinary.com/dcghgoebb/video/upload/v1788981897/cards-video_bqnnml.webm"
           />
         </div>
       </div>

@@ -12,7 +12,7 @@ const Navbar = () => {
         >
 
           <span className="font-bold ml-[10px]  hover:animate-slowspin hidden md:block text-gray-300">
-            Adam
+            Adam 
           </span>
         </a>
 
