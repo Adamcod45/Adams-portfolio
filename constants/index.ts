@@ -30,6 +30,18 @@ export const Skill_data = [
       height: 80,
     },
     {
+      skill_name: "Figma",
+      Image: "/figma.png",
+      width: 50,
+      height: 50,
+    },
+    {
+      skill_name: "Material UI",
+      Image: "/mui.png",
+      width: 80,
+      height: 80,
+    },
+    {
       skill_name: "Redux",
       Image: "/redux.png",
       width: 80,
@@ -59,12 +71,14 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Stripe Payment",
-      Image: "/stripe.webp",
-      width: 80,
-      height: 80,
+
+     {
+      skill_name: "Go",
+      Image: "/go.png",
+      width: 60,
+      height: 60,
     },
+    
     {
       skill_name: "Node js",
       Image: "/node-js.png",
