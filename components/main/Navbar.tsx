@@ -10,6 +10,13 @@ const Navbar = () => {
           href="#about-me"
           className="h-auto w-auto flex flex-row items-center"
         >
+          <Image
+            src="/favicon.ico"
+            alt="Adam logo"
+            width={40}
+            height={40}
+            className="rounded-full drop-shadow-[0_0_8px_#a48fff88] hover:animate-slowspin transition duration-300"
+          />
 
           <span className="font-bold ml-[10px]  hover:animate-slowspin hidden md:block text-gray-300">
             Adam 
