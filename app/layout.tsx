@@ -28,7 +28,7 @@ export default function RootLayout({
         className={`${inter.className} bg-[#030014] overflow-y-scroll overflow-x-hidden`}
       >
           <Toaster position="top-right" />
-        <StarsCanvas />
+        {/* <StarsCanvas /> */}
         <Navbar />
         {children}
         <Footer />
