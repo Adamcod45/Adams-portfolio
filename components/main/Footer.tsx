@@ -9,10 +9,16 @@ const Footer = () => {
         <div className="w-full flex flex-col sm:flex-row items-center sm:items-start justify-around gap-6 sm:gap-4">
           <div className="flex flex-col items-center">
             <div className="font-bold text-[16px]">Social Media</div>
-            <p className="flex flex-row items-center my-3 cursor-pointer">
+            <a
+              href="https://wa.me/2348122662216?text=Hello%20CliniQ%2C%20I%20would%20like%20to%20know%20more."
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Chat with CliniQ on WhatsApp"
+              className="flex flex-row items-center my-3 cursor-pointer"
+            >
               <FaWhatsapp />
               <span className="text-[15px] ml-[6px]">WhatsApp</span>
-            </p>
+            </a>
             <p className="flex flex-row items-center my-3 cursor-pointer">
               <RxGithubLogo />
               <span className="text-[15px] ml-[6px]">Github</span>
